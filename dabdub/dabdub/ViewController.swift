@@ -1,15 +1,14 @@
 //
 //  ViewController.swift
-//  Quizzler-iOS13
+//  dabdub
 //
-//  Created by Angela Yu on 12/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by MYYAGIS on 13.01.2023.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
